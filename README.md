@@ -1,2 +1,2 @@
 # Agilemate app
-Agilemate app repository
+Agilemate web application repository
