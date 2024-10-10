@@ -1,0 +1,13 @@
+{
+  "name": "agilemate-admin",
+  "version": "0.1.0",
+  "scripts": {
+    "init": "node src/init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-appwrite": "^14.1.0"
+  }
+}

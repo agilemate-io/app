@@ -1,2 +1,2 @@
-# app
-Main app repository
+# Agilemate app
+Agilemate app repository
